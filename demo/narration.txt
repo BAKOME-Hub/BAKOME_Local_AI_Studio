@@ -1,0 +1,10 @@
+BAKOME Local AI Studio version 2.0 is the open-source alternative to Jasper AI.
+Built with FastAPI and Ollama, it runs 100 percent locally.
+Enhanced with DeepSeek AI for market analysis.
+Live Solana prices via Jupiter API.
+Trending tokens from Birdeye.
+Crypto news from CoinGecko.
+50 plus AI templates for content creation.
+Professional dashboard with interactive charts.
+Zero monthly cost. 100 percent private. MIT licensed.
+Visit bakome dash hub dot github dot io slash BAKOME Local AI Studio.

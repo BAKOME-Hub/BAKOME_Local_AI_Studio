@@ -18,3 +18,9 @@
 
 ## 👤 Author
 **Bakome Bandias** — [@BaksBaxe](https://x.com/BaksBaxe) | Telegram: [@merryglann](https://t.me/merryglann)
+
+## 🎥 Demo Video
+
+[![BAKOME AI Studio Demo](demo/dashboard-live.png)](demo/bakome-studio-demo.mp4)
+
+👉 [Watch Full Demo](demo/bakome-studio-demo.mp4)
