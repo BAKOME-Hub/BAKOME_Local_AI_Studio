@@ -24,3 +24,19 @@
 [![BAKOME AI Studio Demo](demo/dashboard-live.png)](demo/bakome-studio-demo.mp4)
 
 👉 [Watch Full Demo](demo/bakome-studio-demo.mp4)
+
+---
+
+## 📸 Screenshots
+
+| Local AI | Models |
+|----------|--------|
+| ![Local AI](assets/local-ai.png) | ![Models](assets/models.png) |
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/BAKOME-Hub/BAKOME_Local_AI_Studio.git
+cd BAKOME_Local_AI_Studio
+pip install fastapi uvicorn
+python backend_main.py
